@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Bioi",
+    "oncran": true
+  },
+  {
+    "package": "SimplifyStats",
+    "oncran": true
+  }
+]
