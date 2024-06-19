@@ -5,6 +5,3 @@
 [submodule "Bioi"]
 	path = Bioi
 	url = https://github.com/zcolburn/bioi
-[submodule "SimplifyStats"]
-	path = SimplifyStats
-	url = https://github.com/zcolburn/simplifystats
